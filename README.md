@@ -17,6 +17,11 @@ Download package from releases, unzip and drop the folder into you servers resou
 ### Found a bug?
 Please write an Issue or submit a PR.
 
+## Join Imperial Studio discord & Check us out on Tebex!
+<url>https://imperial-studio.tebex.io/</url><br>
+<url>https://discord.gg/zC5xPtnzbb</url>
+
+
 <img width="1919" height="926" alt="Screenshot 2026-07-21 200031" src="https://github.com/user-attachments/assets/a8b363be-43e1-4d99-a690-a85e8ceb6932" />
 <img width="1919" height="935" alt="Screenshot 2026-07-21 201131" src="https://github.com/user-attachments/assets/625d2c77-a751-4332-bbd4-c6da09bb8e4e" />
 <img width="1919" height="940" alt="Screenshot 2026-07-21 201107" src="https://github.com/user-attachments/assets/9f2dfee9-eab4-4938-be20-17452ebfebf1" />
